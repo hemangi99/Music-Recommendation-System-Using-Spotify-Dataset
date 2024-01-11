@@ -1,4 +1,4 @@
-<h1> Music Recommendation System using Spotify Dataset <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="spotify_logo" width="40" height="38"/> </h1>
+<h1 align="left"> Music Recommendation System using Spotify Dataset <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="spotify_logo" width="40" height="38"/> </h1>
 <h3>Overview</h3>
 This project involves the development of a Music Recommendation System using the Spotify Dataset. The process includes exploratory data analysis (EDA) with visualization techniques to understand the dataset's characteristics and select relevant features for building an effective recommendation system.
 
