@@ -39,7 +39,7 @@ PCA is used to visualize song clusters in a two-dimensional space.
 
 <h3>Installation</h3>
 
-'''pip install pandas seaborn plotly scikit-learn yellowbrick spotipy'''
+```pip install pandas seaborn plotly scikit-learn yellowbrick spotipy```
 
 <h3>Usage</h3>
 
